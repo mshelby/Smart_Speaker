@@ -24,7 +24,7 @@ Houses the passive crossover, LD2450 mmWave presence sensor, and a dedicated 400
 <b>Overall Dimensions</b></br>
 <p align="justify">
 172 mm diameter × 148 mm tall (target)</br></br>
-<b>Acoustic Chamber</b></br>3.85 liters internal volume</br></br>
+<b>Acoustic Chamber</b></br>Currently 2.6 liters internal volume (shooting for 2.8 liters)</br></br>
 <b>Drivers</b></br>Dual opposing Dayton Audio PC83-4 3" full-range woofers + Dayton ND25FW-4 1" waveguide tweeter</br></br>
 <b>Enclosure</b></br>Thick-walled PETG with strategic thinning at driver locations for optimal output</br></br>
 <b>Sealing</b></br>Internal gasketed lips with 1 mm external shadow gaps on top and bottom
