@@ -1,12 +1,10 @@
-<div align="justify">
-
 # Smart Speaker
+
+*Designed and modeled through a thoughtful collaboration with Grok (xAI).*
 
 A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, but built with superior acoustics, thoughtful craftsmanship, and complete privacy.
 
 **Status**: Work in Progress — Current focus: Top & Bottom modules
-
-</br>
 
 ## Design Architecture
 
@@ -24,8 +22,6 @@ Featuring a clean three-part modular enclosure:
 - **Assembly System**  
   The top and bottom modules are secured using a hybrid magnetic + mechanical system. Hidden neodymium magnets provide a satisfying "click" closure and even clamping force, while internal alignment features and minimal screws ensure long-term reliability and easy serviceability.
 
-</br>
-
 ## Key Specifications
 
 - **Overall Dimensions**: 172 mm diameter × 148 mm tall
@@ -34,10 +30,6 @@ Featuring a clean three-part modular enclosure:
 - **Enclosure**: Thick-walled PETG with strategic thinning at driver locations for optimal output
 - **Sealing**: Internal TPU gasketed lips with 1 mm external shadow gaps on top and bottom
 
-</br>
-
 ## Design Philosophy
 
 Inspired by the refined minimalism of Jony Ive and the functional clarity of Dieter Rams, the Smart Speaker prioritizes honest engineering, acoustic performance, and timeless aesthetics while remaining fully local and privacy-focused through Home Assistant integration.
-
-</div>
