@@ -19,20 +19,20 @@
 - Full exterior dimpling planned for visual and acoustic benefit
 
 **Bottom Module**
-- Bottom plate: ~50 mm radius
-- Weight compartment: ~49 mm radius, 11.5 mm height
-- Top lid thinned to 2.5 mm
-- Filled with steel shot + epoxy (~250–280 g)
-- TPU sealing ring with groove alignment
-- 4 magnet attachment system
+- Outer diameter: 100 mm (50 mm radius) at base
+- Weight compartment: inner radius ~49 mm, height ~11.5 mm (steel shot + epoxy, target ~250-280 g)
+- Top lid: 2.5 mm thick
+- TPU sealing ring with internal groove alignment system
+- 4-magnet attachment system (anchored pockets)
+- Includes crossover board and LD2450 presence sensor mounting
 
 **Speaker Mounting**
-- Chamfered tubes (2.18 mm radius outer)
+- Chamfered tubes (2.18 mm outer radius)
 - TPU gasket compression
-- Self-tapping M3 screws
+- Self-tapping M3 screws (ISO 7049 or equivalent)
 
 **Cable Block**
-- Unified recessed stadium/oval shape on back
+- Unified recessed stadium/oval shape on back wall
 - Low placement for cable management
 
-**Latest Update:** Major modeling complete. Now in final detailing and print preparation phase.
+**Latest Update:** Major modeling complete. Now in final detailing and print preparation phase (dimpling, top module polish, polyfill).
