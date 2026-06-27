@@ -19,8 +19,8 @@
 - Full exterior dimpling planned for visual and acoustic benefit
 
 **Bottom Module**
-- Outer diameter: 100 mm (50 mm radius) at base
-- Weight compartment: inner radius ~49 mm, height ~11.5 mm (steel shot + epoxy, target ~250-280 g)
+- Outer diameter: 119 mm (59.50 mm radius) at base
+- Weight compartment: inner radius ~51.5 mm, height 6 mm (steel shot + epoxy, target ~250-280 g)
 - Top lid: 2.5 mm thick
 - TPU sealing ring with internal groove alignment system
 - 4-magnet attachment system (anchored pockets)
