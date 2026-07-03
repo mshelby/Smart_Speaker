@@ -9,7 +9,6 @@
 - Exterior dimpling pattern on barrel (4.5mm spheres, Y=105.05 equator, 7mm spacing, 80 count base)
 
 ## Remaining / Open Items
-- Bluetooth Antenna Performance through PETG wall (LD2450 external antenna placement)
 - Printability Risks (especially long vertical barrel print with supports)
 - Final Top Module detailing (diffuser ring, button area, tweeter integration)
 - Polyfill placement and quantity for acoustic damping
