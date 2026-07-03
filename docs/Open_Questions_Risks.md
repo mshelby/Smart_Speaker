@@ -11,10 +11,10 @@
 - Bluetooth Antenna Performance through PETG wall (LD2450 external antenna placement)
 - Printability Risks (especially long vertical barrel print with supports)
 - Final Top Module detailing (diffuser ring, button area, tweeter integration)
-- Dimpling pattern final depth and spacing on barrel exterior
+- (DONE) Dimpling pattern final depth and spacing on barrel exterior
 - Polyfill placement and quantity for acoustic damping
-- Exact magnet pocket depth and glue strategy
+- (DONE) Exact magnet pocket depth and glue strategy
 - Print orientation and support strategy for barrel halves
 - Whether to use Orca Slicer's "Fuzzy Skin" setting on the barrel or modules (to be decided before final print)
 
-**Latest Update:** Model is at ~88% complete. Major structural work finished. Dimpling pattern nearing completion.
+**Latest Update:** Model is at ~88% complete. Major structural work finished. Dimpling pattern complete.
