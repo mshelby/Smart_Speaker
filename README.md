@@ -5,7 +5,7 @@ A premium, fully local smart speaker designed as a spiritual successor to the Am
 Designed and modeled through a thoughtful collaboration with Grok (xAI), and modeled with care in FreeCAD (v1.1.1) on Arch Linux. 
 
 ## Current Status
-**Progress: ~88% Complete** — Final polishing and pre-print phase.
+**Progress: ~85% Complete** — Working on the Top Module.
 
 ## Design Architecture
 
