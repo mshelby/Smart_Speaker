@@ -1,12 +1,12 @@
 # BarrelSat One - Remaining Tasks
 
 ## Barrel Module
-- Exterior dimpling on barrel sides
-- Final thinning around speaker areas
-- Magnet pocket refinement
+(DONE) - Exterior dimpling on barrel sides
+(DONE) - Final thinning around speaker areas
+(DONE) - Magnet pocket refinement
 
 ## Top Module
-- Diffuser ring integration
+(DONE) - Diffuser ring integration
 - Button area finalization
 - Tweeter tray and mounting
 - Lid details
