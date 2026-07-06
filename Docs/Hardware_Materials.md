@@ -10,7 +10,10 @@
 - Qty 01 - Steel shot
 - Qty 01 - epoxy resin for weight compartment
 
-- Qty 01 - TPU filament for sealing rings and gaskets
+- Qty 01 - TPU filament for sealing rings and gaskets  \
+  Black TPU Filament 1.75mm 250g (0.55lb), 95A Flexible Rubber-Like 3D Printer Filament, High Elasticity TPU Filament+/-0.03mm Accuracy  \
+  (https://www.amazon.com/dp/B0FMRJN1MN)
+  
 - Qty 01 - PETG filament for structural parts
 - Qty 01 - Bag of Polyfill for acoustic damping in barrel
 
