@@ -25,7 +25,7 @@ Three-part modular enclosure:
 
 ## Remaining Tasks
 
-See the `docs/Remaining_tasks` file for the detailed punch list.
+See the `Docs/Remaining_tasks` file for the detailed punch list.
 
 ## Design Philosophy
 
