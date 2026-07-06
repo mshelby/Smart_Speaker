@@ -1,10 +1,12 @@
 # Hardware, Materials & Tools List
 
-- Qty 06 - M3 x 6mm self-tapping Hex screws (ISO7049-C or equivalent)
+- Qty 01 - Assortment of self-tapping hex socket screws  /
+-- Qty 06 - M3 x 6mm self-tapping Hex screws (ISO7049-C or equivalent)  /
+-- Qty 08 - M3 x 8mm self-tapping Hex screws (ISO7049-C or equivalent)  /
+  (Amazon Link: https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)
   
-- Qty 08 - M3 x 8mm self-tapping Hex screws (ISO7049-C or equivalent)
-  
-- Qty 16 - 6×3mm N52 neodymium magnets
+- Qty 16 - 6×3mm N52 neodymium magnets  \
+  (Amazon Link: https://www.amazon.com/dp/B09QHSB2XM)
 
 - Qty 01 - Steel shot
 - Qty 01 - epoxy resin for weight compartment
