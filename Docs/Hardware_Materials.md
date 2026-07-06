@@ -3,11 +3,11 @@
 - Qty 01 - Assortment of self-tapping hex socket screws
     > Qty 06 - M3 x 6mm self-tapping Hex screws  \
     >Qty 08 - M3 x 8mm self-tapping Hex screws  \
-    >(Amazon Link: https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)
+    >(https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)
   
   
 - Qty 16 - 6×3mm N52 neodymium magnets  \
-  (Amazon Link: https://www.amazon.com/dp/B09QHSB2XM)
+  (https://www.amazon.com/dp/B09QHSB2XM)
 
 - Qty 01 - Steel shot
 - Qty 01 - epoxy resin for weight compartment
@@ -17,12 +17,12 @@
 - Qty 01 - Bag of Polyfill for acoustic damping in barrel
 
 - Qty 01 - 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable  \
-  (Amazon Link: https://www.amazon.com/dp/B017PT1EGM)
+  (https://www.amazon.com/dp/B017PT1EGM)
 
 - Qty 01 - 2Pack 90 Degree USB-C Extension Cable Flat 8inch.USB2.0 C Male to Female Adapter, Soft Right Angle USB C to C Cable.  \
-  (Amazon Link: https://www.amazon.com/dp/B0CTDNBZ5S)
+  (https://www.amazon.com/dp/B0CTDNBZ5S)
 
 - Qty 01 - Bag of Polyfill  \
-  (Amazon Link: https://www.amazon.com/dp/B0F6MZ36K9)
+  (https://www.amazon.com/dp/B0F6MZ36K9)
 
 
