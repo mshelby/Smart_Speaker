@@ -17,7 +17,7 @@
 | 01 | 30Pack 6×3mm N52 neodymium magnets (Need 16 Magnets) |  https://www.amazon.com/dp/B09QHSB2XM |
 | 01 | 2Pack 90 Degree USB-C Extension Cable Flat 8inch.USB2.0 C Male to Female Adapter, Soft Right Angle USB C to C Cable. | https://www.amazon.com/dp/B0CTDNBZ5S |
 | 01 | 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable | https://www.amazon.com/dp/B017PT1EGM |
-| 01 | Assortment of m3 self-tapping hex socket screws (Need six 6mm & eight 8mm) | [Row 2 Col 3](https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial) |
+| 01 | Assortment of m3 self-tapping hex socket screws (Need six 6mm & eight 8mm) | [Link](https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial) |
 
 - BUILD ACCESSORIES
   >
