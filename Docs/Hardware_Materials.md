@@ -11,5 +11,4 @@ Qty 01 - TPU filament for sealing rings and gaskets
 Qty 01 - PETG filament for structural parts
 Qty 01 - Bag of Polyfill for acoustic damping in barrel
 
-Qty 01 - 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable
-         (Amazon Link: https://www.amazon.com/dp/B017PT1EGM)
+- Qty 01 - 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable (Amazon Link: https://www.amazon.com/dp/B017PT1EGM)
