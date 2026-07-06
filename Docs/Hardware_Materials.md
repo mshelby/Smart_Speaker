@@ -18,3 +18,11 @@
 
 - Qty 01 - 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable  \
   (Amazon Link: https://www.amazon.com/dp/B017PT1EGM)
+
+- Qty 01 - 2Pack 90 Degree USB-C Extension Cable Flat 8inch.USB2.0 C Male to Female Adapter, Soft Right Angle USB C to C Cable.  \
+  (Amazon Link: https://www.amazon.com/dp/B0CTDNBZ5S)
+
+- Qty 01 - Bag of Polyfill  \
+  (Amazon Link: https://www.amazon.com/dp/B0F6MZ36K9)
+
+
