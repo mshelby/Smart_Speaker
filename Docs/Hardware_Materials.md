@@ -1,7 +1,9 @@
 # Hardware, Materials & Tools List
 
 - Qty 06 - M3 x 6mm self-tapping Hex screws (ISO7049-C or equivalent)
+  
 - Qty 08 - M3 x 8mm self-tapping Hex screws (ISO7049-C or equivalent)
+  
 - Qty 16 - 6×3mm N52 neodymium magnets
 
 - Qty 01 - Steel shot
