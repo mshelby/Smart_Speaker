@@ -10,37 +10,29 @@
 | Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
 | Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
 
-- CABLES & ACCESSORIES
+- CABLES & SCREWS
   >
 | Qty | Description | Link |
 | --- | --- | --- |
 | 01 | 30Pack 6×3mm N52 neodymium magnets (Need 16 Magnets) |  https://www.amazon.com/dp/B09QHSB2XM |
 | 01 | 2Pack 90 Degree USB-C Extension Cable Flat 8inch.USB2.0 C Male to Female Adapter, Soft Right Angle USB C to C Cable. | https://www.amazon.com/dp/B0CTDNBZ5S |
 | 01 | 2PACK 10 inch 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Extension Cable | https://www.amazon.com/dp/B017PT1EGM |
-| 01 | Bag of polyfill for acoustic damping | https://www.amazon.com/dp/B0F6MZ36K9 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| 01 | Assortment of m3 self-tapping hex socket screws (Need six 6mm & eight 8mm) | [Row 2 Col 3](https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial) |
+
+- BUILD ACCESSORIES
+  >
+| Qty | Description | Link |
+| --- | --- | --- |
+| 01 | Tube of glue |  https://www.amazon.com |
+| 01 | Bag of Steelshot for weight cylinder |  https://www.amazon.com |
+| 01 | EPoxy Resin for weight Cylinder |  https://www.amazon.com |
+| 01 | Bag of polyfill for acoustic damping |  [https://www.amazon.com](https://www.amazon.com/dp/B0F6MZ36K9) |
+
 
 - FILAMENT
   >
 | Qty | Description | Link |
 | --- | --- | --- |
-| 01 | Spool of | Row 2 Col 3 |
-| 01 | Spool of | Row 2 Col 3 |
-| 01 | Spool of | Row 2 Col 3 |
-
-- Qty 01 - Assortment of m3 self-tapping hex socket screws (Need six 6mm & eight 8mm)  \
-(https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)
-
-
-
-
-- Qty 01 - Steel shot
-- Qty 01 - epoxy resin for weight compartment
-
-- Qty 01 - TPU filament for sealing rings and gaskets  \
-  Black TPU Filament 1.75mm 250g (0.55lb), 95A Flexible Rubber-Like 3D Printer Filament, High Elasticity TPU Filament+/-0.03mm Accuracy  \
-  (https://www.amazon.com/dp/B0FMRJN1MN)
-  
-- Qty 01 - PETG filament for structural parts
-
-
+| 01 | Spool of black 95A TPU filament for sealing rings and gaskets | https://www.amazon.com/dp/B0FMRJN1MN |
+| 01 | Spool of Matte Gray PETG Filament for barrel body | Row 2 Col 3 |
+| 01 | Spool of Gloss Maroon PETG Filament for trim rings | Row 2 Col 3 |
