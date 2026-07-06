@@ -2,8 +2,8 @@
 
 - Qty 01 - Assortment of m3 self-tapping hex socket screws (Need six 6mm & eight 8mm)  \
 (https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)
-  
-  
+  \  
+  \
 - Qty 01 - 30Pack 6×3mm N52 neodymium magnets (Need 16 Magnets)  \
   (https://www.amazon.com/dp/B09QHSB2XM)
 
