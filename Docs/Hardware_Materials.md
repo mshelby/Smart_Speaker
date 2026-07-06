@@ -1,9 +1,9 @@
 # Hardware, Materials & Tools List
 
-- Qty 01 - Assortment of self-tapping hex socket screws  /
-  > Qty 06 - M3 x 6mm self-tapping Hex screws  \
-  Qty 08 - M3 x 8mm self-tapping Hex screws  \
-  (Amazon Link: https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)  \
+- Qty 01 - Assortment of self-tapping hex socket screws
+> Qty 06 - M3 x 6mm self-tapping Hex screws  \
+>Qty 08 - M3 x 8mm self-tapping Hex screws  \
+>(Amazon Link: https://www.amazon.com/Metric-Tapping-Stainless-Assortment-Drilling/dp/B0CDBCJBYK/ref=sr_1_3?nsdOptOutParam=true&rnid=15245614011&s=industrial)  \
   
   
 - Qty 16 - 6×3mm N52 neodymium magnets  \
