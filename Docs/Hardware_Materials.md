@@ -5,10 +5,10 @@
 >
 | Qty | Description | Link |
 | --- | --- | --- |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| 02 | Dayton Audio PC83-4 3" Full Range Poly Cone Driver | Link |
+| 01 | Dayton Audio ND25FA-4 3" Soft Dome Neodymium Tweeter | Link |
+| 01 | GODIYMODULES 2Pack Adjustable two-way Crossover Board | Link |
+| 01 | LD2450 Presence Sensor & Antenna| Link |
 
 - CABLES & SCREWS
   >
