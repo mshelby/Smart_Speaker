@@ -23,7 +23,7 @@
 |------|-----|------|-------|
 | Flat 90° USB-C Extension Cable (8 inch) | 2 | [Amazon](https://www.amazon.com/dp/B0CTDNBZ5S) | For Sat1 board ports |
 | 3.5mm Right Angle Stereo Extension (10 inch) | 1 | [Amazon](https://www.amazon.com/dp/B017PT1EGM) | Audio jack extension |
-| Assorted M3 Self-Tapping Screws | ~20 | [Amazon](https://www.amazon.com/dp/B0CDBCJBYK) | Various lengths; qty 6 3mm x6mm, qty 8 3mm x8mm |
+| Assorted M3 Self-Tapping Screws (kit) | ~1 | [Amazon](https://www.amazon.com/dp/B0CDBCJBYK) | Various lengths; qty 6 3mm x6mm, qty 8 3mm x8mm |
 
 <br><br>
 
