@@ -9,5 +9,5 @@ A premium, fully local smart speaker designed as a spiritual successor to the Am
 - Timeless, minimalist aesthetics with no visible external fasteners
 - Honest engineering that prioritizes function and long-term reliability
 
-**The Mark Shelby Design Philosophy**  
+**Mark Shelby Design Philosophy**  
 Inspired by refined minimalism and functional clarity, this project prioritizes honest engineering, acoustic performance, and timeless aesthetics while remaining fully local and privacy-focused.
