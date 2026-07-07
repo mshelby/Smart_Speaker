@@ -1,5 +1,11 @@
 # Hardware & Materials List
 
+
+#### Amazon links referenced due to fast shipping and ubiquitous access  
+
+<br><br>
+  
+ 
 ## Main Audio Components
 
 | Item | Qty | Link | Notes |
@@ -9,6 +15,8 @@
 | GODIYMODULES Adjustable 2-Way Crossover | 1 | [Amazon](https://www.amazon.com/dp/B0DP5X3MS8) | Passive crossover board |
 | HLK-LD2450 mmWave Presence Sensor + Antenna | 1 | [Amazon](https://www.amazon.com/LD2450-Tracking-Sensing-Distance-HLK-LD2450/dp/B0G91PYF8Z/ref=sr_1_12) | Presence detection |
 
+<br><br>
+
 ## Cables & Connectivity
 
 | Item | Qty | Link | Notes |
@@ -17,11 +25,15 @@
 | 3.5mm Right Angle Stereo Extension (10 inch) | 1 | [Amazon](https://www.amazon.com/dp/B017PT1EGM) | Audio jack extension |
 | Assorted M3 Self-Tapping Screws | ~20 | [Amazon](https://www.amazon.com/dp/B0CDBCJBYK) | Various lengths; qty 6 3mm x6mm, qty 8 3mm x8mm |
 
+<br><br>
+
 ## Magnets & Hardware
 
 | Item | Qty | Link | Notes |
 |------|-----|------|-------|
 | N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 16 total |
+
+<br><br>
 
 ## Filament
 
@@ -33,6 +45,8 @@
 | Maroon PETG (Trim Rings) | 1 spool | [Amazon]([https://www.amazon.com/Filament-Intensity-Toughness-Enhanced-Metallic/dp/B0DSC4PCMY/ref=sr_1_5) | It's a gray barrel, so... go nuts! Almost anything can match it. Hint: Try dark brown wood look! |
 | Black TPU 95A (Gaskets) | 1 spool | [Amazon](https://www.amazon.com/dp/B0FMRJN1MN) | Important to get 95A grade if possible |
 
+<br><br>
+
 ## Build Materials
 
 | Item | Qty | Link | Notes |
@@ -41,8 +55,13 @@
 | 2-Part Epoxy Resin | 1 kit | [Amazon](https://www.amazon.com/s?k=2+part+epoxy+resin) | Mix with steel shot |
 | Polyfill | Small bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | Acoustic damping |
 
+<br><br>
+
 ## Tools
 
 | Item | Qty | Link | Notes |
 |------|-----|------|-------|
 | Long Handle Allen Wrench / Hex Wrench | 1 | [Amazon](https://www.amazon.com/TOP-VIGOR-Hexagon-Household-Professional-Repairing/dp/B0DF7YTQXK/ref=sr_1_6_sspa?refinements=p_36%3A-600&rnid=386465011) | Long handle to reach into middle of barrel |
+
+<br><br>
+****
