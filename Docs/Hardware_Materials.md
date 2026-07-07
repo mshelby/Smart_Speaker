@@ -42,7 +42,7 @@
 | Matte Gray PETG (Barrel) | 1 spool | [Amazon](https://www.amazon.com/eSUN-Filament-Temperature-Resistance-Printing/dp/B0GGHRB52X/ref=sr_1_4?refinements=p_123%3A152819%7C626964&rnid=85457740011) | eSun or Overture recommended |
 | Dark Charcoal PETG (Modules) | 1 spool | [Amazon](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGXY9Z3/ref=sr_1_3_sspa) | Overature Space Gray PETG, or any dark gray PETG |
 | Clear PETG (Diffuser) | 1 spool | [Amazon](https://www.amazon.com/iSANMATE-Translucent-Filament-Dimensional-Specifically/dp/B0GSJR5LT9/ref=sr_1_5) | Get a small spool, it's cheaper |
-| Maroon PETG (Trim Rings) | 1 spool | [Amazon]([https://www.amazon.com/Filament-Intensity-Toughness-Enhanced-Metallic/dp/B0DSC4PCMY/ref=sr_1_5) | It's a gray barrel, so... go nuts! Almost anything can match it. Hint: Try dark brown wood look! |
+| Maroon PETG (Trim Rings) | 1 spool | [Amazon](https://www.amazon.com/Filament-Intensity-Toughness-Enhanced-Metallic/dp/B0DSC4PCMY/ref=sr_1_5) | It's a gray barrel, so... go nuts! Almost anything can match it. Hint: Try dark brown wood look! |
 | Black TPU 95A (Gaskets) | 1 spool | [Amazon](https://www.amazon.com/dp/B0FMRJN1MN) | Important to get 95A grade if possible |
 
 <br><br>
