@@ -56,21 +56,31 @@ Three-part modular enclosure:
 + **Security**: Privacy-focused local design
 
 ## Quick Links
+
+### Documentation
 - [Hardware Materials](Docs/Hardware_Materials.md)
 - [Design Decisions](Docs/Design_Decisions.md)
-- [Print Plates](/3MF_Print_Plates/)
-- [STLs](/STLs/)
+- [Build Guide](Docs/Build_Guide.md)
 
+### Source Files
+- [Source Files](/Source/)
+
+### Printable Files
+- [3mf Print Plates](/3MF_Print_Plates/)
+- [STLs](/STLs/)
+ 
+
+</br></br>
 ## Remaining Tasks
 
-See the `Docs/Remaining_tasks` file for the detailed punch list.
+See the [Remaining Tasks](Docs/Remaining_tasks) file for the detailed punch list.
 
 ## Design Philosophy
 
 Inspired by honest engineering, purposeful minimalism, and timeless aesthetics. Form follows function while prioritizing acoustic performance, serviceability, and a quiet sense of quality.
 
 </br></br>
-**Modeled in FreeCad v1.1.1, Orca Slicer and Linux** </br>
+**Built entirely with Linux open-source software. Modeled in FreeCad and printed with Orca Slicer.** </br>
 **Designed in collaboration with Grok (xAI)**
 
 ---
