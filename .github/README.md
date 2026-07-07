@@ -2,7 +2,11 @@
 
 A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, built with superior acoustics, thoughtful craftsmanship, and complete privacy.
 
-Designed and modeled through a thoughtful collaboration with Grok (xAI), and modeled with care in FreeCAD (v1.1.1) on Arch Linux. 
+![BarrelSat One - Hero](Images/BarrelSat_One_Hero.png)
+
+**BarrelSat One** — Handcrafted with thoughtful engineering and quiet luxury aesthetics.
+
+---
 
 ## Current Status
 **Progress: ~95% Complete** — Working on fine tuning the print process.
