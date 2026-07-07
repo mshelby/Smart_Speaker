@@ -5,11 +5,14 @@
 
 A premium, fully local smart speaker that honors classic proportions and craftsmanship while delivering exceptional modern performance.
 
-## Design Philosophy
+
+## Design Philosophy: Quiet Quality
 
 I believe beautiful objects should feel like they belong to a longer timeline. They should honor classic proportions, craftsmanship, and timeless aesthetics, while quietly incorporating modern functionality and performance.
 
-I’m drawn to classic architecture and traditional methods not for nostalgia, but because they have already proven what is beautiful and enduring over centuries. My goal is to take that inherited sense of "quiet quality" and beauty, and pair it with honest modern engineering — so the object doesn’t just look timeless, it also works exceptionally well in the present.
+I’m drawn to classic architecture and traditional methods not for nostalgia, but because they have already proven what is beautiful and enduring over centuries. 
+
+My goal is to take that inherited sense of **Quiet Quality** and pair it with honest modern engineering — so the object doesn’t just look timeless, it also works exceptionally well in the present.
 
 
 # BarrelSat One
