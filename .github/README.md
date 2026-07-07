@@ -7,6 +7,32 @@ Designed and modeled through a thoughtful collaboration with Grok (xAI), and mod
 ## Current Status
 **Progress: ~95% Complete** — Working on fine tuning the print process.
 
+</br></br>
+## Gallery
+
+![BarrelSat One - Assembled](Images/BarrelSat_One_Assembled.png)
+
+**Fully assembled BarrelSat One**
+
+---
+
+![BarrelSat One - Cutaway](Images/BarrelSat_One_Cutaway.png)
+
+**Cutaway view showing internal layout**
+
+---
+
+![BarrelSat One - Top View](Images/BarrelSat_One_Top_View.png)
+
+**Top module detail with grille and controls**
+
+---
+
+![BarrelSat One - Angled View](Images/BarrelSat_One_Angled.png)
+
+**Angled view highlighting dimpled texture**
+
+</br></br>
 ## Design Architecture
 
 Three-part modular enclosure:
