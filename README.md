@@ -1,6 +1,22 @@
 
 # BarrelSat One
 
+**Timeless beauty with modern capability.**
+
+A premium, fully local smart speaker that honors classic proportions and craftsmanship while delivering exceptional modern performance.
+
+
+## Design Philosophy: Quiet Quality
+
+I believe beautiful objects should feel like they belong to a longer timeline. They should honor classic proportions, craftsmanship, and timeless aesthetics, while quietly incorporating modern functionality and performance.
+
+I’m drawn to classic architecture and traditional methods not for nostalgia, but because they have already proven what is beautiful and enduring over centuries. 
+
+My goal is to take that inherited sense of **Quiet Quality** and pair it with honest modern engineering — so the object doesn’t just look timeless, it also works exceptionally well in the present.
+
+
+# BarrelSat One
+
 A premium, fully local smart speaker designed as a spiritual successor to the Amazon Echo 4th Gen, built with superior acoustics, thoughtful craftsmanship, and complete privacy.
 
 ![BarrelSat One - Hero](Images/BarrelSat_One_Hero.png)
@@ -56,21 +72,28 @@ Three-part modular enclosure:
 + **Security**: Privacy-focused local design
 
 ## Quick Links
+
+### Documentation
 - [Hardware Materials](Docs/Hardware_Materials.md)
 - [Design Decisions](Docs/Design_Decisions.md)
-- [Print Plates](/3MF_Print_Plates/)
+- [Build Guide](Docs/Build_Guide.md)
+
+### Source Files
+- [Source Files](/Source/)
+
+### Printable Files
+- [3mf Print Plates](/3MF_Print_Plates/)
 - [STLs](/STLs/)
-
-## Remaining Tasks
-
-See the `Docs/Remaining_tasks` file for the detailed punch list.
-
-## Design Philosophy
-
-Inspired by honest engineering, purposeful minimalism, and timeless aesthetics. Form follows function while prioritizing acoustic performance, serviceability, and a quiet sense of quality.
+ 
 
 </br></br>
-**Modeled in FreeCad v1.1.1, Orca Slicer and Linux** </br>
+## Remaining Tasks
+
+See the '[Remaining Tasks](Docs/Remaining_Tasks.md)' file for the detailed punch list.
+
+
+</br></br>
+**Built entirely with Linux open-source software. Modeled in FreeCad and printed with Orca Slicer.** </br>
 **Designed in collaboration with Grok (xAI)**
 
 ---
