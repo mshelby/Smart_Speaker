@@ -31,7 +31,7 @@
 
 | Item | Qty | Link | Notes |
 |------|-----|------|-------|
-| N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 16 total |
+| N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 18 total |
 
 <br><br>
 
