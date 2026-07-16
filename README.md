@@ -58,7 +58,7 @@ A premium, fully local smart speaker designed as a spiritual successor to the Am
 
 Three-part modular enclosure:
 
-* **Central Barrel** — Spherical form, 200 mm diameter × 175 mm tall with 2.5 mm walls and elegant exterior dimpling
+* **Central Barrel** — Spherical form, 200 mm diameter × 175 mm tall with 2.5 mm walls and elegant exterior speaker banding
 * **Top Module** — Houses Satellite1 board, upward-firing tweeter, and diffuser ring
 * **Bottom Module** — Weighted base with crossover, LD2450 presence sensor, TPU sealing ring, and magnetic attachment
 
