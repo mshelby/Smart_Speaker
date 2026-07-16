@@ -65,7 +65,7 @@ Three-part modular enclosure:
 ## Key Specifications
 
 * **Drivers**: Dual opposing Dayton Audio PC83-4 3" woofers + Dayton ND25FW-4 upward firing tweeter
-* **Acoustic Volume**: Targeting 2.8 – 3.0 liters usable
+* **Acoustic Volume**: Targeting 3.0 liters usable
 * **Materials**: PETG with strategic thinning at drivers
 * **Sealing**: TPU gaskets + magnetic closure system
 * **Integration**: Fully local via Home Assistant + Music Assistant
