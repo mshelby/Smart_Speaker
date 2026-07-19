@@ -64,7 +64,7 @@
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
-| Phillips Screw Driver | 1 | [Amazon]([https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | I used Phillips head, use whatever driver your screws require! | $3.99 | $3.99 |
+| Phillips Screw Driver | 1 | [Amazon]([https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | Use whatever driver your screw head requires | $3.99 | $3.99 |
 
 <br><br>
 ****
