@@ -24,6 +24,7 @@
 |------|-----|------|-------|------------|-------------|
 | USB-C Extension Cable (8 inch) | 1 | [Amazon](https://www.amazon.com/dp/B0CTDNBZ5S) | 2 pack, 90 Degree USB-C Extension Cable Flat 8inch.USB2.0 C Male to Female Adapter | $11.99 | $11.99 |
 | 3.5mm Right Angle Stereo Extension (10 inch) | 1 | [Amazon](https://www.amazon.com/dp/B017PT1EGM) | 2PACK 10 inch 3-Pole 3.5mm Male Right Angle to 3.5mm Female Stereo Audio Cable Extension | $6.99 | $6.99 |
+| JST-XH 2.54mm 2-pin Male Connector | 1 | [Amazon](https://www.amazon.com/dp/B0CZHH5D1Q) | 200mm Cable Wire, JST-XH2.54mm 2 Pin Male Connector Plug | $6.49 | $6.49 |
 
 
 <br><br>
