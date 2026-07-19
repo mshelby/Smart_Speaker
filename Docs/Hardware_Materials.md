@@ -52,11 +52,11 @@
 
 ## Build Materials
 
-| Item | Qty | Link | Notes |
-|------|-----|------|-------|
-| Fine Steel Shot (S-110) | ~1.5 lbs | [Amazon](https://www.amazon.com/s?k=steel+shot+s-110) | For several units, but it's the only way they sell it |
-| 2-Part Epoxy Resin | 1 kit | [Amazon](https://www.amazon.com/s?k=2+part+epoxy+resin) | Mix with steel shot |
-| Polyfill | Small bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | Acoustic damping |
+| Item | Qty | Link | Notes | Price Each | Price Total |
+|------|-----|------|-------|------------|-------------|
+| Fine Steel Shot (S-110) | ~1.5 lbs | [Amazon](https://www.amazon.com/Steel-Shot-S-110-Blasting-Media/dp/B09318JKZR/ref=sr_1_5) | Only 450g (24 tablespoons) is needed, but 5lb container is the only way they sell this item! | $29.99 | $29.99 |
+| 2-Part Epoxy Resin | 1 kit | [Amazon][(https://www.amazon.com/TotalBoat-Artist-Epoxy-Resin-Crystal-Clear/dp/B0DYKMHQ21/ref=sr_1_2?refinements=p_123%3A85102&rnid=85457740011) | Mix with steel shot |
+| Polyfill | 1 bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | Acoustic damping | $7.99 | $7.99 |
 
 <br><br>
 
@@ -64,7 +64,7 @@
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
-| Phillips Screw Driver | 1 | [Amazon]([https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | Use whatever driver your screw head requires | $3.99 | $3.99 |
+| Phillips Screw Driver | 1 | [Amazon](https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | Use whatever driver your screw head requires | $3.99 | $3.99 |
 
 <br><br>
 ****
