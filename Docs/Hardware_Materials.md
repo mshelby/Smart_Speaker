@@ -8,19 +8,19 @@
  
 ## Main Audio Components
 
-| Item | Qty | Link | Notes |
-|------|-----|------|-------|
-| Dayton Audio PC83-4 3" Full-Range Driver | 2 | [Amazon](https://www.amazon.com/dp/B0751BDJZX) | Main woofers |
-| Dayton Audio ND25FA-4 1" Soft Dome Tweeter | 1 | [Amazon](https://www.amazon.com/dp/B07QJ5Z5Z5) | Upward firing tweeter |
-| GODIYMODULES Adjustable 2-Way Crossover | 1 | [Amazon](https://www.amazon.com/dp/B0DP5X3MS8) | Passive crossover board |
-| HLK-LD2450 mmWave Presence Sensor + Antenna | 1 | [Amazon](https://www.amazon.com/LD2450-Tracking-Sensing-Distance-HLK-LD2450/dp/B0G91PYF8Z/ref=sr_1_12) | Presence detection |
+| Item | Qty | Link | Notes | Price Each | Price Total |
+|------|-----|------|-------|------------|-------------|
+| Dayton Audio PC83-4 3" Full-Range Driver | 2 | [Amazon](https://www.amazon.com/dp/B0751BDJZX) | Main woofers. Amazon sometimes sells them used for less $$ | $22.70 | $45.40 |
+| Dayton Audio ND25FA-4 1" Soft Dome Tweeter | 1 | [Amazon](https://www.amazon.com/Dayton-Audio-ND25FA-4-Neodymium-Tweeter/dp/B00GB96TG8/ref=sr_1_1) | Upward firing tweeter | $17.86 | $17.86 |
+| GODIYMODULES Adjustable 2-Way Crossover | 1 | [Amazon](https://www.amazon.com/dp/B0DP5X3MS8) | Passive crossover board | $8.99 | $8.99 |
+| HLK-LD2450 mmWave Presence Sensor + Antenna | 1 | [Amazon](https://www.amazon.com/LD2450-Tracking-Sensing-Distance-HLK-LD2450/dp/B0G91PYF8Z/ref=sr_1_12) | Presence detection | $26.71 | $26.71 |
 
 <br><br>
 
 ## Cables & Connectivity
 
-| Item | Qty | Link | Notes |
-|------|-----|------|-------|
+| Item | Qty | Link | Notes | Price Each | Price Total |
+|------|-----|------|-------|------------|-------------|
 | Flat 90° USB-C Extension Cable (8 inch) | 2 | [Amazon](https://www.amazon.com/dp/B0CTDNBZ5S) | For Sat1 board ports |
 | 3.5mm Right Angle Stereo Extension (10 inch) | 1 | [Amazon](https://www.amazon.com/dp/B017PT1EGM) | Audio jack extension |
 
@@ -40,8 +40,8 @@
 
 ## Filament
 
-| Item | Qty | Link | Notes |
-|------|-----|------|-------|
+| Item | Qty | Link | Notes | Price Each | Price Total |
+|------|-----|------|-------|------------|-------------|
 | Matte Gray PETG (Barrel) | 1 spool | [Amazon](https://www.amazon.com/eSUN-Filament-Temperature-Resistance-Printing/dp/B0GGHRB52X/ref=sr_1_4?refinements=p_123%3A152819%7C626964&rnid=85457740011) | eSun or Overture recommended |
 | Dark Charcoal PETG (Modules) | 1 spool | [Amazon](https://www.amazon.com/OVERTURE-Filament-Consumables-Dimensional-Accuracy/dp/B07PGXY9Z3/ref=sr_1_3_sspa) | Overature Space Gray PETG, or any dark gray PETG |
 | Clear PETG (Diffuser) | 1 spool | [Amazon](https://www.amazon.com/iSANMATE-Translucent-Filament-Dimensional-Specifically/dp/B0GSJR5LT9/ref=sr_1_5) | Get a small spool, it's cheaper |
