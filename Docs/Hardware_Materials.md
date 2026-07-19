@@ -59,6 +59,7 @@
 | Fine Steel Shot: Fine S110 Steel Shot | 1 | [Amazon](https://www.amazon.com/Steel-Shot-S-110-Blasting-Media/dp/B09318JKZR/ref=sr_1_5) | Source: 5 lb bag recommended (one bag covers multiple units, though Only 450g (24 tablespoons) is needed per unit). | $29.99 | $29.99 |
 | 2-Part Epoxy Resin | 1 kit | [Amazon](https://www.amazon.com/TotalBoat-Artist-Epoxy-Resin-Crystal-Clear/dp/B0DYKMHQ21/ref=sr_1_2?refinements=p_123%3A85102&rnid=85457740011) | Mix 3oz (90ml) with steel shot until fully coated and pour into the weight cylinder. Allow full cure (typically 24–72 hours depending on epoxy) before final assembly | $8.99 | $8.99 |
 | Polyfill | 1 bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | For acoustic damping inside the barrel | $7.99 | $7.99 |
+| Adhesive | 1 | [Amazon](https://www.amazon.com/Gorilla-Clear-Glue-ounce-Bottle/dp/B06WD6R96X/ref=sr_1_1?refinements=p_n_g-101013621332111%3A99530464011&rnid=23993849011) | Gorilla Glue -Clear, General purpose adhesive | $6.99 | $6.99 |
 
 <br><br>
 
