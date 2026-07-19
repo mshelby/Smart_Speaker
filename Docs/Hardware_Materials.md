@@ -40,7 +40,7 @@
 
 <br><br>
 
-## Filaments
+## Filaments & Fabrics
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
@@ -48,6 +48,7 @@
 | Translucent PETG (For Diffuser) | 1 spool | [Amazon](https://www.amazon.com/iSANMATE-Translucent-Filament-Dimensional-Specifically/dp/B0GSJR5LT9/ref=sr_1_5) | iSANMATE Rapid PETG Translucent Gray 3D Printer Filament 1.75mm,50-400mm/s High Speed Clear PETG Filament. If you can find a small spool, it's cheaper. You don't need much! | $14.99 | $14.99 |
 | Matte Navy PETG (For Trim Rings) | 1 spool | [Amazon](https://www.amazon.com/IEMAI-Filament-Printer-Dimensional-Accuracy/dp/B0GGBLVB2S/ref=sr_1_2) | IEMAI Matte PETG Filament 1.75mm Navy Blue 1kg, Smooth Matte Finish 3D Printer Filament with Minimal Layer Lines & Low Warping. It's a gray barrel, so almost anything can match it. Try a [wood](https://www.amazon.com/stores/page/E78B37D8-0CEA-4FD4-9D60-E214499DE244?lp_context_asin=B0FDWL1L8L&lp_context_query=matte%20filament%20%20%20%26quot%3Bpetg%26quot%3B%20%20%20%26quot%3BBlue%26quot%3B) filament! | $19.99 | $19.99 |
 | Lotactree Black TPU 95A (For all Gaskets & Sealing Rings) | 1 spool | [Amazon](https://www.amazon.com/dp/B0FMRJN1MN) | Black, High Rubber-Like, Flexible 95A Grade TPU Filament, 1.75mm 250g. Important to get 95A grade if possible | $8.99 | $8.99 |
+| Black/Gray/Tan Cloth Speaker Fabric | 1 | [Amazon](https://www.amazon.com/dp/B0FG73WXSQ?smid=A1THAZDOWP300U) | accoustically Transparent | $13.99 | $13.99 |
 
 <br><br>
 
