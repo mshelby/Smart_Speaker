@@ -64,7 +64,7 @@
 
 | Item | Qty | Link | Notes |
 |------|-----|------|-------|
-| Long Handle Allen Wrench / Hex Wrench | 1 | [Amazon](https://www.amazon.com/TOP-VIGOR-Hexagon-Household-Professional-Repairing/dp/B0DF7YTQXK/ref=sr_1_6_sspa?refinements=p_36%3A-600&rnid=386465011) | Long handle to reach into middle of barrel |
+| Phillips Screw Driver | 1 | [Amazon]([https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | I used Phillips head, use whatever driver your screws require! | $3.99 | $3.99 |
 
 <br><br>
 ****
