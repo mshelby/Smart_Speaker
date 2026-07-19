@@ -33,8 +33,8 @@
 |------|-----|------|-------|
 | N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 18 total |
 | Assorted M3 Self-Tapping Screws (kit) | 1 | [Amazon](https://www.amazon.com/dp/B0CDBCJBYK) | Various lengths; qty 6 - 3mm x6mm, qty 8 - 3mm x8mm |
-| M3 x4mm Flat Head Screws | 1 pack (need 4 screws) | https://www.homedepot.com/p/Everbilt-M3-0-5-x-6mm-Zinc-Flat-Head-Phillips-Drive-Machine-Screw-4-Pieces-837951/321071637 | For mounting sidewall speakers - 2 per speaker, Can also use 5mm or 6mm length |
-| m3 Lock Nut / Acorn Nut | 1 pack (need 4) | https://www.homedepot.com/p/Everbilt-M3-0-5-Stainless-Steel-Lock-Nut-4-Pieces-837221/321071866 | For mounting sidewall speakers - 2 per speaker |
+| M3 x4mm Flat Head Screws | 1 pack (need 4 screws) | [Home Depot](https://www.homedepot.com/p/Everbilt-M3-0-5-x-6mm-Zinc-Flat-Head-Phillips-Drive-Machine-Screw-4-Pieces-837951/321071637) | For mounting sidewall speakers - 2 per speaker, Can also use 5mm or 6mm length |
+| m3 Lock Nut / Acorn Nut | 1 pack (need 4) | [Home Depot](https://www.homedepot.com/p/Everbilt-M3-0-5-Stainless-Steel-Lock-Nut-4-Pieces-837221/321071866) | For mounting sidewall speakers - 2 per speaker |
 
 <br><br>
 
