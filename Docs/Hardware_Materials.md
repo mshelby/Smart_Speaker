@@ -1,7 +1,7 @@
 # Hardware & Materials List
 
 
-#### Amazon links referenced due to fast shipping and ubiquitous access  
+#### Amazon links referenced due to fast shipping and ubiquitous access, but you should also consider buying from the [futureproofhomes.net](https://futureproofhomes.net/collections/all-products) store(s) to support that project!  
 
 <br><br>
   
