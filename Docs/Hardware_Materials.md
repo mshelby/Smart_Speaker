@@ -56,9 +56,9 @@
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
-| Fine Steel Shot (S-110) | 1 | [Amazon](https://www.amazon.com/Steel-Shot-S-110-Blasting-Media/dp/B09318JKZR/ref=sr_1_5) | Only 450g (24 tablespoons) is needed, but 5lb container is the only way they sell this item! | $29.99 | $29.99 |
-| 2-Part Epoxy Resin | 1 kit | [Amazon](https://www.amazon.com/TotalBoat-Artist-Epoxy-Resin-Crystal-Clear/dp/B0DYKMHQ21/ref=sr_1_2?refinements=p_123%3A85102&rnid=85457740011) | Mix 2.5oz - 3.0oz with steel shot | $8.99 | $8.99 |
-| Polyfill | 1 bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | Acoustic damping | $7.99 | $7.99 |
+| Fine Steel Shot: Fine S110 Steel Shot | 1 | [Amazon](https://www.amazon.com/Steel-Shot-S-110-Blasting-Media/dp/B09318JKZR/ref=sr_1_5) | Source: 5 lb bag recommended (one bag covers multiple units, though Only 450g (24 tablespoons) is needed per unit). | $29.99 | $29.99 |
+| 2-Part Epoxy Resin | 1 kit | [Amazon](https://www.amazon.com/TotalBoat-Artist-Epoxy-Resin-Crystal-Clear/dp/B0DYKMHQ21/ref=sr_1_2?refinements=p_123%3A85102&rnid=85457740011) | Mix 3oz (90ml) with steel shot until fully coated and pour into the weight cylinder. Allow full cure (typically 24–72 hours depending on epoxy) before final assembly | $8.99 | $8.99 |
+| Polyfill | 1 bag | [Amazon](https://www.amazon.com/dp/B0F6MZ36K9) | For acoustic damping inside the barrel | $7.99 | $7.99 |
 
 <br><br>
 
