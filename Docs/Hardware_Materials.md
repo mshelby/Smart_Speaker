@@ -31,7 +31,7 @@
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
-| N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 18 total |
+| N52 Neodymium Magnets 6x3mm | 1 pack | [Amazon](https://www.amazon.com/dp/B09QHSB2XM) | Need 18 total | $7.99 | $7.99 |
 | Assorted M3 x 6mm/10mm/16mm Self-Tapping Screws | 1 kit | [Amazon](https://www.amazon.com/Self-Tapping-Screws-Phillips-Carbon-Plastic/dp/B0BPM8J5F5/ref=sr_1_3?s=industrial) | qty 2 - M3 x6mm, qty 4 - M3 x10mm, Qty 4 - M3 x16mm | $7.99 | $7.99 |
 | M3 x4mm Flat Head Screws | 1 pack | [Home Depot](https://www.homedepot.com/p/Everbilt-M3-0-5-x-6mm-Zinc-Flat-Head-Phillips-Drive-Machine-Screw-4-Pieces-837951/321071637) | For mounting sidewall speakers - Need 4 screws, 2 per speaker, Can also use 5mm or 6mm length | $1.98 | $1.98 |
 | m3 Lock Nut / Acorn Nut | 1 pack | [Home Depot](https://www.homedepot.com/p/Everbilt-M3-0-5-Stainless-Steel-Lock-Nut-4-Pieces-837221/321071866) | For mounting sidewall speakers - Need 4, 2 per speaker | $1.98 | $1.98 |
