@@ -10,6 +10,7 @@
 
 | Item | Qty | Link | Notes | Price Each | Price Total |
 |------|-----|------|-------|------------|-------------|
+| Satellite1.1 Dev Kit | 1 | [FutureProofHomes](https://futureproofhomes.net/products/satellite1-pcb-dev-kit) | With the Satellite1 Dev Kit, you can create your own ultra-powerful voice assistant, smart speaker, and multi-sensor all in one product — fully compatible with the Home Assistant platform. | $69.99 | $69.99 |
 | Dayton Audio PC83-4 3" Full-Range Driver | 2 | [Amazon](https://www.amazon.com/dp/B0751BDJZX) | Main woofers. Amazon sometimes sells them used for less $$ | $22.70 | $45.40 |
 | Dayton Audio ND25FA-4 1" Soft Dome Tweeter | 1 | [Amazon](https://www.amazon.com/Dayton-Audio-ND25FA-4-Neodymium-Tweeter/dp/B00GB96TG8/ref=sr_1_1) | Upward firing tweeter | $17.86 | $17.86 |
 | GODIYMODULES Adjustable 2-Way Crossover | 1 | [Amazon](https://www.amazon.com/dp/B0DP5X3MS8) | Passive crossover board | $8.99 | $8.99 |
