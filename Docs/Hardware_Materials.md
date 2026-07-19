@@ -68,7 +68,7 @@
 |------|-----|------|-------|------------|-------------|
 | Phillips Screw Driver | 1 | [Amazon](https://www.amazon.com/Precision-Screwdriver-Zoikuloi-Professional-Electronics/dp/B0F1FKMGPK/ref=sr_1_13_sspa) | I used a phillips driver, but choose whatever driver your screw head requires | $3.99 | $3.99 |
 | Rotary Tool | 1 | [Harbor Freight](https://www.harborfreight.com/07-amp-rotary-tool-kit-80-piece-58999.html) or [Amazon](https://www.amazon.com/XIFOWE-Polishing-Cordless-Electric-Attachments/dp/B0DPKF7V65/ref=sr_1_8) | These work nicely if you decide to sand or paint the project. | $9.99 or $24.99 | $9.99 |
-
+| Speaker connectors & Crimping Kit | 1 | [Amazon](https://www.amazon.com/Electrical-Connectors-0-25-2-5mm%C2%B2-Ratcheting-Assortment/dp/B0FKG479X5/ref=sr_1_26?s=industrial#averageCustomerReviewsAnchor) | You will need a few female end connectors and a crimping tool for connecting the JST cables to the speakers | $12.99 | $12.99 |
 
 <br><br>
 ****
