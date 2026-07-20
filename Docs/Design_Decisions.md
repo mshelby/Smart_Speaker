@@ -30,9 +30,9 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 - **Why chosen:** Creates elegant contrast against the light gray barrel while remaining refined and classic. Navy reads as “quiet luxury” rather than bright or trendy. Separate printed rings allow easy color experimentation (wood-look, charcoal, etc.) without reprinting the entire barrel.
 
 ### Modules (Top & Bottom Caps)
-- **Color:** Dark Charcoal / Near-Black Matte  
-- **Approximate Hex:** `#2C2C2C` to `#1A1A1A`
-- **Why chosen:** Makes the 1 mm shadow gap intentional and premium. Dark caps ground the form and make the light barrel feel lighter and more floating.
+- **Color:** Concrete Gray Matte (same as Barrel Main)
+- **Approximate Hex:** `#A8A29E` (warm light gray / concrete)
+- **Why chosen:** Matches barrel main for a clean aesthetic while allowing individual trim lines to appear more prominent.
 
 ### Diffuser Ring
 - Translucent / Clear PETG (or light smoke gray) so LEDs glow cleanly through without harsh hotspots.
