@@ -5,7 +5,7 @@ A premium, fully local smart speaker designed as a spiritual successor to the Am
 **Key Objectives:**
 - Superior acoustic performance with dual opposing woofers and optimized internal volume
 - Premium feel through substantial weight, clean lines, and refined details (including intentional 1 mm shadow gaps)
-- Modular three-part design for serviceability and ease of assembly
+- Modular design for serviceability and ease of assembly
 - Timeless, minimalist aesthetics with no visible external fasteners
 - Honest engineering that prioritizes function and long-term reliability
 
