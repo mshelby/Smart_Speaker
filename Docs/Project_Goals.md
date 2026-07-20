@@ -24,14 +24,16 @@ One explicit project goal is to evaluate whether BarrelSat One can stand on equa
 |--------|----------------|----------------------|
 | **Amazon Echo (4th Gen)** | Original design target / “gold standard” for form factor, size, and everyday smart-speaker performance | Direct spiritual successor goal. Compare bass extension, midrange clarity, voice assistant usefulness (local vs cloud), presence detection, and overall “plug-and-play polish.” |
 | **Apple HomePod (2nd generation)** | Current high-water mark for computational audio and seamless ecosystem integration in a compact premium smart speaker | Compare spatial audio processing, automatic room correction, build quality/feel, and privacy posture. |
-| **Sonos Era 300** (or Era 100) | Leading multi-room / high-fidelity smart speaker with strong app ecosystem and trueplay tuning | Compare stereo imaging, app experience, multi-room capability, and value. |
+| **Sonos Era 300** (or Era 100) | Leading multi-room / high-fidelity smart speaker with strong app ecosystem and Trueplay tuning | Compare stereo imaging, app experience, multi-room capability, and value. |
 
-### High-End Audio Speaker References
-| Device / Brand | Why It Matters | Notes for Comparison |
-|----------------|----------------|----------------------|
-| **Bowers & Wilkins** (compact models, e.g. Formation Flex or similar small powered speakers; also their classic continuum/cone tweeter loading philosophy) | Explicitly referenced during design for tweeter loading / rear-chamber ideas and overall premium compact speaker DNA | Compare treble refinement, cabinet rigidity, and the sense of “expensive” sound from a small enclosure. |
-| **KEF** (LSX II or similar active wireless compact speakers) | Highly regarded for coaxial driver technology, accurate imaging, and modern premium compact performance | Useful reference for clarity, soundstage, and how much performance is possible from a small, well-engineered enclosure. |
-| **Other quiet-luxury compact references** (e.g. Dynaudio, Focal small monitors, or high-end bookshelf designs) | Broader context for what “premium small speaker” sounds and feels like | Use for subjective “does this feel expensive?” listening evaluations. |
+### High-End Audio Speaker References (~$1,000–$1,500 class and related)
+| Device / Brand | Approx. Price Class | Why It Matters | Notes for Comparison |
+|----------------|---------------------|----------------|----------------------|
+| **Bowers & Wilkins** (Formation Flex, or similar compact powered models; also their classic continuum cone + tweeter loading philosophy) | $600–$1,200+ | Explicitly referenced during design for tweeter loading / rear-chamber ideas and overall premium compact speaker DNA | Compare treble refinement, cabinet rigidity, and the sense of “expensive” sound from a small enclosure. |
+| **KEF LSX II** (or LSX II LT) | ~$1,200–$1,400 / pair | Highly regarded coaxial Uni-Q driver technology, accurate imaging, and modern premium compact wireless performance | Excellent reference for clarity, soundstage precision, and how much performance is possible from a small, well-engineered active enclosure. |
+| **Dynaudio** (e.g. Xeo or small active/bookshelf models in this range) | ~$1,000–$1,500 | Danish quiet-luxury reputation for natural midrange and refined, non-fatiguing sound | Strong benchmark for “does this sound expensive and effortless?” listening tests. |
+| **Focal** (small powered or bookshelf models, e.g. Chora / Aria compact or equivalent) | ~$1,000–$1,400 | French high-end brand known for dynamic, detailed treble and solid cabinet construction | Useful for evaluating transient response and perceived refinement. |
+| **Other quiet-luxury compact references** (Naim Mu-so level design language, Sonus Faber entry compacts, etc.) | $1,000–$1,500+ | Broader context for what “premium small speaker” looks, feels, and sounds like | Subjective “heirloom quality” and industrial design comparison. |
 
 ### Evaluation Criteria (to be used later)
 - Bass extension and control relative to size
@@ -44,4 +46,4 @@ One explicit project goal is to evaluate whether BarrelSat One can stand on equa
 - Ease of daily use within Home Assistant + Music Assistant
 - Visual and industrial design coherence (“Quiet Quality”)
 
-These benchmarks are not about claiming to “beat” every commercial product on every metric. They exist so that, after real-world listening and measurement, we can honestly assess how close BarrelSat One comes to standing on equal footing with both the best smart speakers and true high-end compact audio devices.
+These benchmarks are not about claiming to “beat” every commercial product on every metric. They exist so that, after real-world listening and measurement, we can honestly assess how close BarrelSat One comes to standing on equal footing with both the best smart speakers and true high-end compact audio devices in the $1,000–$1,500 class.
