@@ -26,7 +26,7 @@ Print in this approximate order so you can test-fit as you go:
 
 1. **TPU Gaskets** (all of them) – quick and useful for fit checks
 2. **Diffuser Ring** (It's a small item, and only thing using translucent PETG)  
-3. **Trim Rings** (Front Speaker, Rear Speaker. Uses different color PETG filament than all remaining prionts)
+3. **Trim Rings** (Front Speaker, Rear Speaker. Uses different color PETG filament than all remaining prints)
 4. **Trim Rings** (Upper & Lower Barrel Rings)  
 5. **Bottom Module** (Weight_Cylinder + Weight_Cylinder_Lid)  
 6. **Top Module** (Tweeter_Deck, Top_Panel, Diffuser)  
