@@ -15,4 +15,9 @@ The 'quiet quality' Design Philosophy emphasizes honest engineering, quiet luxur
 - Opposing Dayton PC83-4 woofers + upward ND25FA-4 tweeter
 - Internal volume target 3.0 liters
 
+## Color & Texture & Surface Finish
+- Barrel hex color here
+- Trim ring hex color option choices here
+- Barrel & trim surface finish, texture & texture aesthetic notes here (matte vs glossy, fuzzy skin surface or not, etc...)
+
 All decisions prioritize the balance of premium appearance, printability, and sound quality.
