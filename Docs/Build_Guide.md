@@ -85,13 +85,12 @@ Use the provided `BarrelSat_One-Printables.3mf` as a starting point and adjust f
 
 ## 6. Barrel Preparation
 
-1. Install Front and Rear speaker trim rings (glue recommended – permanent decorative attachment).
-2. Install Upper and Lower trim rings (glue).
-3. Mount the two Dayton PC83-4 woofers from the inside using the designed bosses / tubes and self-tapping screws + lock nuts if using.
-4. Place speaker gaskets (Front & Rear) between driver and wall.
-5. Optionally cover the speaker openings with acoustic fabric (black / gray / vintage tone) using flexible adhesive (Gorilla Clear or E6000 style).
-6. Install any internal cable guides or just route the extension cables cleanly down to the cable block.
-7. Lightly stuff polyfill in the chamber for damping (do not overstuff – preserve volume).
+1. Place speaker gaskets (Front & Rear) between driver and inner wall, then mount the two Dayton PC83-4 woofers from the inside using the designed pegs and secure with flat head M3 x4mm machine screws + lock nuts or acorn nuts.
+2. Optionally affix acoustic fabric (black / gray / vintage tone) to speaker trim rings using flexible adhesive (Gorilla Glue Clear).
+3. Install Front and Rear speaker trim rings (glue recommended – permanent decorative attachment).
+4. Install Upper and Lower trim rings (glue).
+5. Install any internal cable guides or just route the extension cables cleanly down to the cable block.
+6. Lightly stuff polyfill in the chamber for damping (do not overstuff – preserve volume).
 
 ---
 
