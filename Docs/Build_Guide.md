@@ -53,7 +53,7 @@ Use the provided `BarrelSat_One-Printables.3mf` as a starting point and adjust f
 
 - Remove supports carefully (especially inside the barrel and around speaker mounts).
 - Lightly sand any visible layer lines on exterior surfaces if desired (matte filament hides a lot).
-- Test-fit all magnets into their pockets – they should be snug. Secure with a drop of CA or Gorilla Clear if needed.
+- Test-fit all magnets into their pockets – they should be snug. Secure with a drop of CA or Gorilla Glue (clear) if needed.
 - Dry-fit all TPU gaskets.
 - Clean the cable block openings so the extension cables seat cleanly.
 
