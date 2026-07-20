@@ -1,7 +1,7 @@
 # Hardware & Materials List
 
 
-#### Amazon and other links referenced due to fast shipping and ubiquitous access. You might also consider buying from the stores at [Future Proof Homes](https://futureproofhomes.net/collections/all-products) to support that project!  
+#### This is an exhausted list of absolutely every material used to create the project. Project builders may already have some of these tools & materials, or suitable substitutes. Not every item will need purchasing for each unit built! Some items contain quantaties suitable for building multiple units, but were listed as purchased for affordability. Project builers are encouraged to economize where possible! These items were purchased to acieve the goals of the project... i.e. "quiet quality / quiet luxury." Amazon and other links referenced due to fast shipping and ubiquitous access. Project builders might also consider buying from the stores at [Future Proof Homes](https://futureproofhomes.net/collections/all-products) to support that project as well!  
 
 <br><br>
   
