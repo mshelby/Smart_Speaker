@@ -11,7 +11,7 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 - Customizable trim bands elegantly framing the speaker openings and top/bottom edges
 - Trim rings printed separately for color customization
 - Speaker holes on top plate for upward-firing tweeter acoustics
-- Modular top and bottom with magnetic closure and TPU gaskets
+- Modular top and bottom with magnetic closure and TPU sealing gaskets to boost accoustic volume in barrel
 - Opposing Dayton PC83-4 woofers + upward Dayton ND25FA-4 tweeter
 - Internal volume target ~3.0 liters usable
 - Intentional 1 mm shadow gaps at top and bottom modules for visual separation and easy removal
