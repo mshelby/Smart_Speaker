@@ -1,7 +1,7 @@
 # Hardware & Materials List
 
 
-#### Amazon and other links referenced due to fast shipping and ubiquitous access. You might also consider buying from the stores at [Future Proof Homes](https://futureproofhomes.net/collections/all-products) to support that project!  
+#### This is an exhaustive list of absolutely every material used to create the project. Project builders may already have some of these tools & materials, or suitable substitutes. Not every item will need purchasing for each unit built! Some items contain quantaties suitable for building multiple units, but were listed as purchased for affordability. Project builers are encouraged to economize where possible! These items were purchased to acieve the goals of the project... i.e. "quiet quality / quiet luxury." Amazon and other links referenced due to fast shipping and ubiquitous access. Project builders might also consider buying from the stores at [Future Proof Homes](https://futureproofhomes.net/collections/all-products) to support that project as well!  
 
 <br><br>
   
@@ -47,8 +47,8 @@
 | Concrete Gray, Matte PETG (For Barrel & Modules)| 1 spool | [Amazon](https://www.amazon.com/eSUN-Filament-Temperature-Resistance-Printing/dp/B0GGHRB52X/ref=sr_1_4?refinements=p_123%3A152819%7C626964&rnid=85457740011) | eSUN PETG Matte Filament 1.75mm, 3D Printer Filament Matte PETG, Temperature Resistance and Bending Resistance, 1KG Spool (2.2 LBS) | $17.99 | $17.99
 | Translucent PETG (For Diffuser) | 1 spool | [Amazon](https://www.amazon.com/iSANMATE-Translucent-Filament-Dimensional-Specifically/dp/B0GSJR5LT9/ref=sr_1_5) | iSANMATE Rapid PETG Translucent Gray 3D Printer Filament 1.75mm,50-400mm/s High Speed Clear PETG Filament. If you can find a small spool, it's cheaper. You don't need much! | $14.99 | $14.99 |
 | Matte Navy PETG (For Trim Rings) | 1 spool | [Amazon](https://www.amazon.com/IEMAI-Filament-Printer-Dimensional-Accuracy/dp/B0GGBLVB2S/ref=sr_1_2) | IEMAI Matte PETG Filament 1.75mm Navy Blue 1kg, Smooth Matte Finish 3D Printer Filament with Minimal Layer Lines & Low Warping. It's a gray barrel, so almost anything can match it. Try a [wood](https://www.amazon.com/stores/page/E78B37D8-0CEA-4FD4-9D60-E214499DE244?lp_context_asin=B0FDWL1L8L&lp_context_query=matte%20filament%20%20%20%26quot%3Bpetg%26quot%3B%20%20%20%26quot%3BBlue%26quot%3B) filament! | $19.99 | $19.99 |
-| Lotactree Black TPU 95A (For all Gaskets & Sealing Rings) | 1 spool | [Amazon](https://www.amazon.com/dp/B0FMRJN1MN) | Black, High Rubber-Like, Flexible 95A Grade TPU Filament, 1.75mm 250g. Important to get 95A grade if possible | $8.99 | $8.99 |
-| Black/Gray/Tan Cloth Speaker Fabric | 1 | [Amazon](https://www.amazon.com/dp/B0FG73WXSQ?smid=A1THAZDOWP300U) | accoustically Transparent | $13.99 | $13.99 |
+| Lotactree Black TPU 95A (For Gaskets & Sealing Rings) | 1 spool | [Amazon](https://www.amazon.com/dp/B0FMRJN1MN) | Black, High Rubber-Like, Flexible 95A Grade TPU Filament, 1.75mm 250g. Important to get 95A grade if possible | $8.99 | $8.99 |
+| Black/Gray/Tan Cloth Speaker Fabric | 1 | [Amazon](https://www.amazon.com/dp/B0FG73WXSQ?smid=A1THAZDOWP300U) | accoustically Transparent woven fabrics used for a more upscale aesthetic  | $13.99 | $13.99 |
 
 <br><br>
 
