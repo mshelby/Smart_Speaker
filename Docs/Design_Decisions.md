@@ -40,7 +40,6 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 ### Surface Finish Notes
 - Primary finish: Matte PETG throughout for a soft, high-end tactile feel.
 - Optional: Orca Slicer “Fuzzy Skin” on the barrel exterior (still under evaluation — test on a sample first).
-- Dimple pattern (4.5 mm spheres) provides both visual texture and mild acoustic diffusion.
 - No high-gloss surfaces preferred — they fight the quiet, refined character of the design.
 
 All decisions prioritize the balance of premium appearance, printability, and sound quality.
