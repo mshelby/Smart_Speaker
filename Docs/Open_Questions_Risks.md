@@ -9,6 +9,6 @@
 
 ## Resolved
 - Magnet and gasket strategy locked in
-- Weight cylinder volume capacity
+- Weight cylinder volume capacity (425g - 480g)
 
 Last Updated: July 2026
