@@ -7,7 +7,7 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 
 ## Key Decisions
 - Spherical Barrel form with 200 mm diameter and ~175 mm height
-- 2.5 mm nominal wall thickness (thinned to ~1.8 mm at speaker areas)
+- 2.5 mm nominal wall thickness.
 - Customizable trim bands elegantly framing the speaker openings and top/bottom edges
 - Trim rings printed separately for color customization
 - Speaker holes on top plate for upward-firing tweeter acoustics
