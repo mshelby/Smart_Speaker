@@ -50,7 +50,7 @@ A premium, fully local smart speaker designed as a spiritual successor to the Am
 
 ![BarrelSat One - Angled View](Images/BarrelSat_One_Angled.png)
 
-**Angled view highlighting dimpled texture**
+**Angled view highlighting possibility of multiple surface finishes**
 
 </br></br>
 ## Design Architecture
