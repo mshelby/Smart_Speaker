@@ -17,7 +17,7 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 - Intentional 1 mm shadow gaps at top and bottom modules for visual separation and easy removal
 - Glued trim rings (permanent, seamless decorative attachment)
 
-## Color & Texture & Surface Finish
+## Color, Texture & Surface Finish
 
 ### Barrel Main
 - **Color:** Concrete Gray Matte  
