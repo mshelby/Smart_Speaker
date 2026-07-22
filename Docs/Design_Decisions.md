@@ -21,7 +21,7 @@ The 'Quiet Quality' Design Philosophy emphasizes honest engineering, quiet luxur
 
 ### Barrel Main
 - **Color:** Concrete Gray Matte  
-- **Approximate Hex:** `#A8A29E` (warm light gray / concrete)
+- **Approximate Hex:** `#DEDEDE` (warm light gray / concrete)
 - **Why chosen:** Provides a soft, neutral, architectural base that feels substantial and timeless. Matte finish reduces glare, hides minor layer lines, and supports the quiet luxury aesthetic. Complements both dark modules and colored trim rings without competing with them.
 
 ### Speaker Trim Rings (Front & Rear) + Upper / Lower Trim Rings
